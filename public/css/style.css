@@ -1499,3 +1499,18 @@ body.offcanvas #colorlib-aside {
   transition: 0.3s;
   font-size: 1.3rem;
 }
+
+/*Slider button background color*/
+#colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
+  background: rgba(246, 246, 246, 0.8) !important;
+}
+
+#colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn:hover {
+  background: white !important;
+}
+
+/*Slider button background color*/
+.colorlib-nav-toggle {
+  left: 1.2rem;
+}
+
