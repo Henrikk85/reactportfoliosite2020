@@ -44,7 +44,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>International Business Administration at EBS <span>2007-2012 (www.ebs.ee)</span></h2>
-                        <p>After I obtained my bachelor's degree in business (specialising in marketing) I had the sense that I need to improve my IT skills in order to realize my economics ideas that at the time were all related to E-Commerce.</p> 
+                        <p>After I obtained my bachelor's degree in business (specializing in marketing) I had the sense that I need to improve my IT skills in order to realize my economics ideas that at the time were all related to E-Commerce.</p> 
                       </div>
                     </div>
                   </article>
