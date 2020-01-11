@@ -33,7 +33,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Web-Design & Digital Graphics at EEK <span>2014-2017 (www.euas.eu)</span></h2>
-                        <p>I started pursuing my studies regarding web-design & digital graphics as I knew that these skills were quite expensive to hire and well sought after regarding digital marketing. My goal was also to find and create contacts with people who were more tech-savvy than myself and maybe form a team. Little did I know that the courses regarding web-development sparkled an interest in me and that I found myself also a new hobby that I could pursue also professionally.</p>
+                        <p>I started pursuing my studies regarding web design & digital graphics (specializing in web technologies) as I knew that these skills were quite expensive to hire and well sought after regarding digital marketing. My initial goal was also to find and create new contacts with people who were more tech-savvy than myself and maybe form a team. Little did I know that the courses regarding web-development sparkled an interest in me and that I found myself also a new hobby that I could pursue also professionally.</p>
                       </div>
                     </div>
                   </article>
