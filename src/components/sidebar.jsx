@@ -13,7 +13,7 @@ export default class Sidebar extends Component {
 
               {/*<span className="email"><i className="icon-mail"></i> henrikrkriiger@gmail.com</span>*/}
 
-              <h2>An Aspiring Web-Developer & Digital Creative</h2>
+              <h2>An Aspiring Web Developer & Digital Creative</h2>
            
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
