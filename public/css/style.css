@@ -1515,3 +1515,7 @@ body.offcanvas #colorlib-aside {
   left: 1.2rem;
 }
 
+/*Slides frame CCS attribute*/
+#colorlib-hero .flexslider .slides li {
+  border: double;
+}
