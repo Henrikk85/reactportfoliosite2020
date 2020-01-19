@@ -286,7 +286,7 @@
 		})
 	};
 
-	/*========== CONTACT FORM INPUT VALIDATION ==========*/
+	/*========== CONTACT FORM INPUT VALIDATION AND PhP (PhPMailer Configuration) ==========*/
 //Original Resource: https://bootstrapious.com/p/how-to-build-a-working-bootstrap-contact-form
 var Validator = function () {
 

@@ -37,7 +37,7 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
+                    <h3>Web Development</h3>
                     <p>I have experience building websites and simple web applications using JavaScript (React),HTML,CSS,PhP,C# & .Net</p>
                 </div>
                 </div>
@@ -48,7 +48,7 @@ export default class About extends Component {
                     <i className="icon-wordpress" />
                 </span>
                 <div className="desc">
-                    <h3>Wordpress Implementation & Maintenance</h3>
+                    <h3>Wordpress Development, Optimization & Maintenance</h3>
                     <p>I started my freelance & micropreneuer career building sites and also online stores with WordPress by implementing commercial themes.</p>
                 </div>
                 </div>
