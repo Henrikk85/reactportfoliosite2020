@@ -28,6 +28,17 @@ export default class Timeline extends Component {
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Founded Funktech OÜ <span>2017 (www.funktech.ee)</span></h2>
+                        <p>The initial reason for founding Funktech was to enhance and support my career as a freelance developer. As I also studied economics it was also a logical step for me to become an entrepreneur. At first we were mostly focused on WordPress as a platform but as we got to know the local market we soon realized it has it's certain aspects and limits, so at the moment we are mostly working on how to establish ourselves on the global market of web development, digital marketing and also maybe even IoT if we need to adjust according to the market.</p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
                         <i className="icon-pen2" />
                       </div>
